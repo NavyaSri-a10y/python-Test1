@@ -1,0 +1,5 @@
+total2 =0
+total_2=0
+course_class=0
+print(total2,total_2,course_class)
+
