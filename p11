@@ -1,0 +1,3 @@
+#Tax rate as a decimal percentage
+tax_rate=0.18
+print(tax_rate)
