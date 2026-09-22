@@ -1,0 +1,6 @@
+# Ask the user for three items on separate lines
+item1=input("Enter first item:")
+item2 = input("Enter second item:")
+item3 = input("Enter the third item:")
+# print all three items joined by commas
+print(item1, item2, item3,sep=", ")

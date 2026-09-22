@@ -1,0 +1,9 @@
+#Ask the user to type a number 
+user_input=input("Enter a number:")
+# Covert the input to an integer
+number =int(user_input)
+#Check if the number is even or odd
+if number % 2==0:
+    print("even")
+    else:
+    print("odd")

@@ -1,0 +1,5 @@
+city = input("Enter a city name:")
+
+temp_input =input("Enter the temperature:")
+temperature  = float(temp_input)
+print(f"It is {temperature} degrees in{city}")
